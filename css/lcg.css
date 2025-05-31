@@ -60,7 +60,7 @@
     }
 }
 
-.logo-cmg:hover {
+.logo-lcg:hover {
     animation: shake-logo 0.5s linear;
     -webkit-animation: shake-logo 0.5s linear;
 }
