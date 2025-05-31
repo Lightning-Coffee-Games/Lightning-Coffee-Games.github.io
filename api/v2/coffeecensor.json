@@ -1,11 +1,11 @@
 {
   "metadata": {
     "name": "Coffee Censor",
-    "company": "Coffee Mug Games",
-    "homepage": "https://coffee-mug-games.github.io/product/coffeecensor",
-    "supportlink": "https://coffee-mug-games.github.io/product/coffeecensor#support",
+    "company": "Lightning Coffee Games",
+    "homepage": "https://lightning-coffee-games.github.io/product/coffeecensor",
+    "supportlink": "https://lightning-coffee-games.github.io/product/coffeecensor#support",
     "userversion": "1.1",
-    "version": 10
+    "version": 11
   },
   "wordlist": [
     "69",
