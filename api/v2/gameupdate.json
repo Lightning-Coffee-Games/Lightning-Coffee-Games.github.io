@@ -4,10 +4,10 @@
   },
   "inmemoriam": {
     "serveractive": true,
-    "version": 20250531,
-    "userversion": "1.2",
+    "version": 20250602,
+    "userversion": "1.2.1",
     "link": [
-      ["ITCH.IO", "https://brunoo1545.itch.io/in-memoriam/devlog/956533/in-memoriam-v12"]
+      ["ITCH.IO", "https://brunoo1545.itch.io/in-memoriam/devlog/958533/in-memoriam-v121"]
     ],
     "metadata": {}
   },
