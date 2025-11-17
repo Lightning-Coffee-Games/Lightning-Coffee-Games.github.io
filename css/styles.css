@@ -71,9 +71,9 @@
     }
 
     .item-container {
-        width: 180px;
-        min-height: 180px;
-        margin: 5px;
+        width: 175px;
+        min-height: 175px;
+        margin: 4px;
     }
 
     .item-container-title {
