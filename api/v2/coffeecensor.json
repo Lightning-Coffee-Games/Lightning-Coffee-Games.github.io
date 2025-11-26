@@ -2,10 +2,10 @@
   "metadata": {
     "name": "Coffee Censor",
     "company": "Lightning Coffee Games",
-    "homepage": "https://lightning-coffee-games.github.io/product/coffeecensor",
+    "homepage": "https://lightning-coffee-games.github.io/",
     "supportlink": "https://lightning-coffee-games.github.io/product/coffeecensor#support",
     "userversion": "1.1",
-    "version": 11
+    "version": 12
   },
   "wordlist": [
     "69",
@@ -70,3 +70,4 @@
     "53x@"
   ]
 }
+
